@@ -2,7 +2,7 @@
 
 Predicting which telecom customers are likely to cancel their subscription. The project combines unsupervised customer segmentation with supervised classification and business-cost-aware threshold optimization.
 
-[![Open in Colab](https://colab.research.google.com/drive/1GCdvvg1z3F5_sGLgh_QATbauT3z5hNCW?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1GCdvvg1z3F5_sGLgh_QATbauT3z5hNCW?usp=sharing)
 ---
 
 ## Dataset
